@@ -1,0 +1,5 @@
+FOODS
+1.BEANS
+2.DAIRIES
+3.FRUITS
+4.mashroom soup
